@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garrettchin00
-- 👀 I’m interested in ... graphic design, and web and game development
+- 👀 I’m interested in ... web and game development
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript, Java, Python, C++, and C#
-- 💞️ I’m looking to collaborate on ... design projects
+- 💞️ I’m looking to collaborate on ... web and game development projects
 - 📫 How to reach me ... garrettchin00@gmail.com, gjchin@asu.edu
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... I have an auditory processing disorder
